@@ -1,55 +1,77 @@
+
 # Student Management System
-
-## 📌 Overview
-Hey everyone! This is my **Student Management System**, a web-based app designed to make student data management easier for schools. Instead of relying on spreadsheets or paper records, this system provides a simple way to track **grades, attendance, and student details** in one place.
-
-This repo includes all the code, setup instructions, and demo materials. The goal is to build a **secure, user-friendly, and scalable** system that helps teachers and administrators manage student information efficiently.
+**Author:** Adam Adamczyk
 
 ---
 
-## 🎥 Demo Video  
-🎬 **[Click here to watch the demo](https://youtu.be/A6UBuaj39uQ?si=e74KsBVeFc9MODB2)**  
+## Overview
+The **Student Management System** is a secure, web-based application designed to help schools and teachers efficiently manage **student profiles, attendance, and grades**—all in one place.
+
+Instead of relying on spreadsheets or paper records, this system streamlines student data management with an intuitive interface and role-based access.
+
+This project was developed as part of a system design course and demonstrates real-world use of web technologies, automation, and database integration.
 
 ---
 
-## 📜 Project Flyer  
-📄 **[Download the Flyer (PDF)](https://github.com/TheLinuxCodingNerd/SP25-SYSTEM-DESIGN/blob/main/Student%20Management%20System.pdf)**  
+## Live Demo
+[Click here to watch the final demo video](https://youtu.be/A6UBuaj39uQ?si=e74KsBVeFc9MODB2)
+
+*Includes a walkthrough of key features, smart automation, and backend processes.*
 
 ---
 
-## 📂 Presentation Slides  
-📊 **[Download the Presentation (PPTX)](https://github.com/TheLinuxCodingNerd/SP25-SYSTEM-DESIGN/raw/refs/heads/main/Student%20Management%20System%20Presentation%20Adam%20Adamczyk.pptx)**  
+## Product Brochure
+[Download the Project Flyer (PDF)](https://github.com/TheLinuxCodingNerd/SP25-SYSTEM-DESIGN/blob/main/Student%20Management%20System.pdf)
+
+*A marketing-style brochure with visuals, system overview, and feature highlights.*
 
 ---
 
-## 👤 About Me
-- **Name:** Adam Adamczyk  
-- **Project Title:** Student Management System  
-- **GitHub Repository:** [Project Link](https://github.com/TheLinuxCodingNerd/SP25-SYSTEM-DESIGN)  
+##  Presentation Slides
+[Download the Presentation (PPTX)](https://github.com/TheLinuxCodingNerd/SP25-SYSTEM-DESIGN/raw/refs/heads/main/Student%20Management%20System%20Presentation%20Adam%20Adamczyk.pptx)
 
 ---
 
-## 🏆 Features & What It Does
-| Feature                 | Description |
-|------------------------|-------------|
-| **Manage Student Profiles** | Add, edit, and delete student records like name, ID, email, phone, and grade. |
-| **Track Attendance** | Keep records of student attendance easily. |
-| **Grade Management** | Assign and update student grades in one place. |
-| **Admin & Teacher Roles** | Only authorized users (admins/teachers) can make changes. |
-| **MySQL Database** | All student data is securely stored in a MySQL database. |
-| **Responsive UI** | The system uses Bootstrap for a clean and easy-to-use interface. |
-| **Report Generation** | Generate reports for individual students or classes. |
+##  Project Repository
+- **GitHub Repository:** [TheLinuxCodingNerd/SP25-SYSTEM-DESIGN](https://github.com/TheLinuxCodingNerd/SP25-SYSTEM-DESIGN)
 
 ---
 
-## 💻 System Requirements  
-To run this project, you will need:  
+##  Key Features
 
-- **Python 3.10+**  
-- **Django 5.x**  
-- **MySQL Server**  
-- **Bootstrap (for UI styling)**  
-- **Git (for version control)**  
-- **Web Browser** (Chrome/Firefox recommended)  
+| Feature                    | Description |
+|----------------------------|-------------|
+| **👤 Student Profiles**       | Add, edit, and delete student data (name, ID, contact info, grade) |
+| **📅 Attendance Tracking**   | Record daily attendance with auto-timestamps |
+| **📝 Grade Management**      | Easily update and calculate student grades |
+| **🛡️ Role-Based Access**     | Admins & teachers have different permissions |
+| **📊 Report Generation**     | Export printable grade & attendance summaries |
+| **⚙️ Automated Workflows**   | System automates data saving, validation, and rendering—minimizing user input |
+| **🧠 Backend Intelligence**   | Django models handle business logic, while templates auto-generate content |
+| **📱 Responsive UI**          | Uses Bootstrap for mobile-friendly design |
 
 ---
+
+##  System Requirements
+
+To run the system locally, you’ll need:
+
+- **Python 3.10+**
+- **Django 5.x**
+- **MySQL Server**
+- **Bootstrap 5 (via CDN)**
+- **Git (for cloning)**
+- **Modern Browser** (Chrome/Firefox)
+
+---
+
+## Final Notes
+
+This project showcases:
+
+- Solving a real-world education challenge
+- Use of smart backend logic to reduce user workload
+- Full-stack development (frontend, backend, DB)
+- Organized, modular, and testable architecture
+
+Thank you for reviewing!
